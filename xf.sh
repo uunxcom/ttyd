@@ -8,4 +8,4 @@ chmod +x ttyd
 mv ttyd /usr/sbin/
 
 # Run v2ray
-ttyd -p 8000 -c admin:admin bash
+ttyd bash
